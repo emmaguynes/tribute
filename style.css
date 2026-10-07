@@ -1,0 +1,26 @@
+.myimg {
+width: 300px;
+height: 300px;
+object-fit: cover;
+border-radius: 50%;
+}
+
+span{
+	margin: 50px;
+    
+ }
+
+ body{
+ 	font-family: evanescent;
+ 	font-size: 24pt;
+ 	background-color: #fb59e9;
+ }
+
+ @font-face{
+ 	font-family: evanescent;
+ 	src: url("evanescent.ttf");
+ }
+
+ .source{
+ 	font-family: times new roman;
+ }
